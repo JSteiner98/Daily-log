@@ -1,8 +1,0 @@
-# Mac system files
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# VS Code files
-.vscode/
-*.code-workspace
